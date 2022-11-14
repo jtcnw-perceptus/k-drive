@@ -1,0 +1,28 @@
+Dnia 13 listopa mieliśmy pierwsze spotkanie grypy JTCNW
+
+Na spotkanu omówiono:
+1. Specyfikację projektu
+2. Technologię z których skorzystamy
+3. Utworzenie repozytorium do utrzymywania kodu źródłowego
+oraz magazynowania danych odn. raportów
+4. Ustaleniem nazwy projektu - dotychczas bedzie on nosił nazwę key-drive
+5. Zajadaniem sie dobrym ciastem
+6. Wyjściem na kebaba
+
+Jako pierwsze kroki ustaliliśmy aby skupić się najpierw na stworzeniu
+części wizualnej platformy.
+
+Chcemy wykorzystać jako technologię serwer developerski node.js,
+react.js jako częśc wizualna strony
+
+Jako baze danych planujemy dać mozliwosc wyboru klientowi,
+np. będzie możliwość konfiguracji jednej z wielu baz danych kompatybilnym
+z projektem (mongoDB, firebase etc.)
+
+Po odbyciu wykładów związanych z kryptografią zajmiemy się implementacją
+moduły HSM (jako emulator).
+
+Skończony projekt będzie w formie pakietu Docker z automatyczną konfiguracją
+na początku, czyli skonfigurowanie bazy danych, utworzenie podstawowych użytkowników
+wybranie motywu/brandingu aplikacji etc.
+
