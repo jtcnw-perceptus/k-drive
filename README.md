@@ -8,12 +8,14 @@ Przyszłe logo jako baner
 ### Nauka dla całego zespołu
 1. Nauczenie się korzystania z serwisu Github oraz aplikacji GitHub Desktop
 2. Nauczenie sie modyfikacji plików .md
+3. Nauczenie się tworzenia wireframe
 
 ### Tutoriale
 |Subject|Link|
 |-|-|
 |Markdown|[Link](https://youtu.be/HUBNt18RFbo)|
 |Github|[Link](https://youtu.be/8Dd7KRpKeaE)|
+|Wireframe diagrams|[Link](https://youtu.be/qpH7-KFWZRI)|
 
 ### Inspiracje
 #### TODO: WRZUCIĆ RÓŹNE PODOBNE PLATFORMY I ROZWIĄZANIA Z KTÓRYCH SIĘ ZAINSPIRUJEMY
