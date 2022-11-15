@@ -1,7 +1,41 @@
 # k-drive
 (Pronounced Key Drive) is a HMS-supportive web project.
-![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
+![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=128)
+
 Przyszłe logo jako baner
+
+### Nauka dla całego zespołu
+1. Nauczenie się korzystania z serwisu Github oraz aplikacji GitHub Desktop
+2. Nauczenie sie modyfikacji plików .md
+
+### Tutoriale
+|Subject|Link|
+|-|-|
+|Markdown|[Link](https://youtu.be/HUBNt18RFbo)|
+|Github|[Link](https://youtu.be/8Dd7KRpKeaE)|
+
+### Inspiracje
+#### TODO: WRZUCIĆ RÓŹNE PODOBNE PLATFORMY I ROZWIĄZANIA Z KTÓRYCH SIĘ ZAINSPIRUJEMY
+
+### Lista zadań projektowych na teraz
+|Zadanie|Wyznaczona osoba|Czy jest zrobione|
+|-|-|-|
+|Wykonać logo w formie baneru||NIE|
+|Wykonać szkic panelu logowania||NIE|
+|Wykonać szkic strony pomocy z logowaniem||NIE|
+|Wykonać szkic strony odzyskiwania hasła||NIE|
+|Wykonać szkic strony aktywacji konta||NIE|
+|Wykonać szkic strony resetowania hasła||NIE|
+|Wykonać szkic dashboard (konto admin)||NIE|
+|Wykonać szkic zakładki users (konto admin)||NIE|
+|Wykonać szkic zakładki drive (konto admin)||NIE|
+|Wykonać szkic zakładki Helpdesk (konto admin)||NIE|
+|Wykonać szkic zakładki Helpdesk – zgłoszenie problemy (konto admin)||NIE|
+|Wykonać szkic zakładki MyFiles (konto normal user)||NIE|
+|Wykonać szkic zakładki favorite (konto normal user)||NIE|
+|Wykonać szkic zakładki Shared (konto normal user)||NIE|
+|Wykonać szkic zakładki Bin (konto normal user)||NIE|
 
 ### Cel
 Implementacja aplikacji webowej do bezpiecznego przechowywania plików
@@ -29,7 +63,8 @@ tzw. Secure vault z użyciem możliwości oferowanych przez HSM
  - [ ] pole "password"
  - [ ] przycisk "login"
 
-![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)	
+![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Widok panelu logowania
 
 ##### Strona pomocy z logowaniem
@@ -41,6 +76,7 @@ Widok panelu logowania
  - [ ] przycisk "Send request"
 
 ![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Strona pomocy z logowaniem
 
 ##### Strona odzyskiwania hasła
@@ -49,6 +85,7 @@ Strona pomocy z logowaniem
 - [ ] Przycisk "Send request"
 
 ![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Strona odzyskiwania hasła
 
 #### Strona aktywacji konta
@@ -60,6 +97,7 @@ Link zostaje przesłany przez serwer e-mail na polecenie administratora:
 - [ ] przycisk "Create Account"
 
 ![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Strona aktywacji konta
 
 #### Strona resetowania hasła
@@ -69,6 +107,7 @@ Strona aktywacji konta
 - [ ] przycisk "Change password")
 
 ![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Strona resetowania hasła
 
 ## Strona administratora
@@ -77,6 +116,7 @@ Strona resetowania hasła
 - [ ] Statystyki o użytkowników (akcje użytkowników / aktywnie zalogowani / zablokowani użytkownicy / nieaktywowani)
 
 ![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Widok Dashboard
 
 ### Zakładki
@@ -98,6 +138,7 @@ Widok Dashboard
 |404|DELETED|Konta użytkownika zostało oznaczone do usunięcia przez administratora - tylko administrator może zarządzać kontem a dla poprzedniego użytkownika jest niedostępne do logowania |
 
 ![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Zakładka Users
 
 #### Drive
@@ -105,6 +146,7 @@ Zakładka Users
 - [ ] Standardowe ustawienie maksymalnego czau sesji użytkownika
 
 ![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Zakładka Drive
 
 #### Helpdesk
@@ -119,9 +161,11 @@ Zakładka Drive
 - [ ] Możliwość zamknięcia zgłoszenia
 
 ![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Zakładka Zgłoszeń
 
 ![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Okienko z problem
 
 ## Strona użytkownika główna
@@ -154,6 +198,7 @@ Okienko z problem
 - [ ] Pobieranie plików/folderów jako zip
 
 ![Wstawić schemat](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Zakładka moje pliki
 
 #### Ulubione
@@ -161,6 +206,7 @@ Zakładka moje pliki
 - [ ] Oznaczanie plików jako ulubione
 
 ![Wstawić schemat](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Zakładka ulubione
 
 #### Udostepnione
@@ -169,6 +215,7 @@ Zakładka ulubione
 - [ ] Możliwość pobrania pliku
 
 ![Wstawić schemat](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Zakładka udostępnione
 
 #### Kosz
@@ -177,6 +224,7 @@ Zakładka udostępnione
 - [ ] Przywracanie plików do poprzedniego miejsca
 
 ![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Zakładka kosz
 
 #### Ustawienia
@@ -185,6 +233,7 @@ Zakładka kosz
 - [ ] - Ustawienie automatycznego usuwania 
 
 ![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=450)
+
 Zakładka Ustawienia
 
 # Ściąga MARKDOWN:
