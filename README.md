@@ -22,7 +22,7 @@ Przyszłe logo jako baner
 ### Inspiracje
 |Video| Link|
 |-|-|
-|Google drive clone with React|[Link](https://www.youtube.com/watch?v=iRaelG7v0OU)|
+|Google drive clone with React|[Link]https://www.youtube.com/watch?v=6XTRElVAZ9Y|
 
 #### TODO: WRZUCIĆ RÓŹNE PODOBNE PLATFORMY I ROZWIĄZANIA Z KTÓRYCH SIĘ ZAINSPIRUJEMY
 
