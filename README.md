@@ -19,7 +19,8 @@ Przyszłe logo jako baner
 |Używane Technologie/Frameworki webowe(nasz fragment od 8:30)| [Link] (https://www.youtube.com/watch?v=FQPlEnKav48) |
 
 ### Inspiracje
-|Video|
+|Video| Link|
+|-|-|
 |Google drive clone with React| [Link] (https://www.youtube.com/watch?v=iRaelG7v0OU) |
 
 #### TODO: WRZUCIĆ RÓŹNE PODOBNE PLATFORMY I ROZWIĄZANIA Z KTÓRYCH SIĘ ZAINSPIRUJEMY
