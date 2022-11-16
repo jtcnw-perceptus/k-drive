@@ -17,6 +17,7 @@ Przyszłe logo jako baner
 |Github|[Link](https://youtu.be/8Dd7KRpKeaE)|
 |Wireframe diagrams|[Link](https://youtu.be/qpH7-KFWZRI)|
 |Używane Technologie/Frameworki webowe|[Link](https://www.youtube.com/watch?v=FQPlEnKav48)|
+|Wybrane frameworki JavaScriptowe||[Link](https://www.youtube.com/watch?v=cuHDQhDhvPE)|
 
 ### Inspiracje
 |Video| Link|
