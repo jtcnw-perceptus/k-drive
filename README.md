@@ -1,5 +1,5 @@
 # k-drive
-(Pronounced Key Drive) is a HMS-supportive web project.
+(Pronounced Key Drive) is a HMS supporting web project.
 
 ![](https://i.insider.com/61d1c0e2aa741500193b2d18?width=128)
 
