@@ -53,7 +53,7 @@ tzw. Secure vault z użyciem możliwości oferowanych przez HSM
 	- Node.js
 	- React.js
 	- MongoDB albo alternatywy
-	- Serwer Apache (WWW)
+	- Serwer Apache (WWW) LUB nginx
 	- Serwer e-mail - jeszcze nie wybrany
 	- Docker
 
