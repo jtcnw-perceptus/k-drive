@@ -44,6 +44,9 @@ Przyszłe logo jako baner
 |Wykonać szkic zakładki favorite (konto normal user)||NIE|
 |Wykonać szkic zakładki Shared (konto normal user)||NIE|
 |Wykonać szkic zakładki Bin (konto normal user)||NIE|
+|Wykonać szkic podglądu obrazków||NIE|
+|Wykonać szkic podglądu muzyki||NIE|
+|Wykonać szkic podglądu video||NIE|
 
 ### Cel
 Implementacja aplikacji webowej do bezpiecznego przechowywania plików
