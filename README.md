@@ -30,20 +30,13 @@ Przyszłe logo jako baner
 |Zadanie|Wyznaczona osoba|Czy jest zrobione|
 |-|-|-|
 |Wykonać logo w formie baneru|Dorota|NIE|
-|Wykonać szkic panelu logowania|Wykonany|NIE|
 |Wykonać szkic strony pomocy z logowaniem|Piotr|NIE|
-|Wykonać szkic strony odzyskiwania hasła|Kornel|NIE|
 |Wykonać szkic strony aktywacji konta|Kornel|NIE|
-|Wykonać szkic strony resetowania hasła|Kornel|NIE|
 |Wykonać szkic dashboard (konto admin)|Franciszek|NIE|
 |Wykonać szkic zakładki users (konto admin)|Piotr|NIE|
 |Wykonać szkic zakładki drive (konto admin)|Piotr|NIE|
 |Wykonać szkic zakładki Helpdesk (konto admin)|Franciszek|NIE|
 |Wykonać szkic zakładki Helpdesk – zgłoszenie problemy (konto admin)|Franciszek|NIE|
-|Wykonać szkic zakładki MyFiles (konto normal user)|Miłosz|NIE|
-|Wykonać szkic zakładki favorite (konto normal user)|Miłosz|NIE|
-|Wykonać szkic zakładki Shared (konto normal user)|Miłosz|NIE|
-|Wykonać szkic zakładki Bin (konto normal user)|Miłosz|NIE|
 |Wykonać szkic podglądu obrazków|Dorota|NIE|
 |Wykonać szkic podglądu muzyki|Dorota|NIE|
 |Wykonać szkic podglądu video|Dorota|NIE|
