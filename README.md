@@ -1,3 +1,6 @@
+|Wstępny projekt loga|
+![](https://i.imgur.com/CLjOuPX.png)
+
 # k-drive
 (Pronounced Key Drive) is a HMS supporting web project.
 
